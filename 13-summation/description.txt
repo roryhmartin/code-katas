@@ -1,0 +1,23 @@
+Summation
+Write a program that finds the summation of every number from 1 to num. 
+The number will always be a positive integer greater than 0. Your function only needs to return the result, 
+what is shown between parentheses in the example below is how you reach that result and it's not part of it, see the sample tests.
+
+For example (Input -> Output):
+
+2 -> 3 (1 + 2)
+8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
+
+Clear Desctiption:
+
+The task is asking you to write a program or function that takes a positive integer num as input and calculates the summation of every number from 1 to num. The result should be the sum of all these numbers.
+
+For example, if the input is 2, the program should calculate the sum of 1 + 2, which is 3. If the input is 8, the program should calculate the sum of 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8, which is 36.
+
+Here are a couple of examples to illustrate the expected behavior:
+
+Input: 2
+Output: 3 (because 1 + 2 = 3)
+
+Input: 8
+Output: 36 (because 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = 36)
