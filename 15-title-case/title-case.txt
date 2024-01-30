@@ -1,0 +1,4 @@
+The task is to convert a string to title case, so every word has its first letter capitalised. 
+
+Input : "How can mirrors be real if our eyes aren't real"
+Output: "How Can Mirrors Be Real If Our Eyes Aren't Real"
